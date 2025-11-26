@@ -1,0 +1,6 @@
+scapy
+mysql-connector-python
+python-dotenv
+matplotlib
+pandas
+ttkbootstrap

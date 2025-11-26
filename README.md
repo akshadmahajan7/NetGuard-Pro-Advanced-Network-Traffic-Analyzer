@@ -110,7 +110,8 @@ sudo python3 main_gui.py
 ## 📸 Screenshots
 
 ### The Dashboard (Live Monitoring)
-1. [MySQL Database](images/MySQL.png)
+1. MySQL Database
+(images/MySQL.png)
 
 ### PDF Report Output
 Example of the auto-generated Executive Security Report.

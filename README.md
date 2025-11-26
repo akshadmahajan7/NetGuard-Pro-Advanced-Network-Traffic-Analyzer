@@ -126,4 +126,5 @@ Feature Requests: Open an issue to discuss new metrics or graphs.
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Disclaimer**: This tool is intended for _**educational purposes**_ and _**network analysis**_ on authorized networks only. The _**developer**_ is _**not responsible**_ for _**any misuse or illegal activities**_ performed _**using**_ this _**software**_.
+
+### **🚨 Disclaimer**: This tool is intended for _**educational purposes**_ and _**network analysis**_ on authorized networks only. The _**developer**_ is _**not responsible**_ for _**any misuse or illegal activities**_ performed _**using**_ this _**software**_.

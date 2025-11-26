@@ -114,6 +114,7 @@ sudo python3 main_gui.py
 **1. MySQL Database.**
 <img width="1918" height="1020" alt="MySQL" src="https://github.com/user-attachments/assets/3e9a96cf-92a7-4160-9b8f-d468ec48b5e8" />
 
+
 **2. Packet Sender(Used to test the network analyzer tool ).**
   <img width="1918" height="1025" alt="Packet Sender" src="https://github.com/user-attachments/assets/a3a9da5c-dd3c-4bc0-9a97-77de7de0d8ea" />
 
@@ -121,32 +122,41 @@ sudo python3 main_gui.py
  
  _a. Before Starting Monitoring._
     <img width="1917" height="1012" alt="gui_1" src="https://github.com/user-attachments/assets/14554f6d-b224-4cb1-a70c-b8f248ae3bc8" />
+    
  
-_ b. After Starting Monitoring._
+ _b. After Starting Monitoring._
     <img width="1918" height="1005" alt="gui_2" src="https://github.com/user-attachments/assets/77f64e3a-ed9e-423e-8259-52253e51ba79" />
+    
  
  _c. Statistics Of Network Traffic._
     <img width="1918" height="1017" alt="gui_3" src="https://github.com/user-attachments/assets/0c28f2ef-0d55-4d8e-b960-35cd6e8c528f" />
+    
  
  _d. Data MAnagememnt Option._
     <img width="1918" height="1015" alt="gui_4" src="https://github.com/user-attachments/assets/a8b7c81c-63c0-4581-bfe8-6742c2afdbfd" />
+    
  
  _e. Showing Dialog box for confirmation of logs deletion._
     <img width="1918" height="1020" alt="gui_5" src="https://github.com/user-attachments/assets/0a0bcadd-6816-46d8-9163-8dff8b531a9b" />
+    
  
  _f. Saving the Report Location Dialog box._
     <img width="1918" height="1017" alt="gui_6" src="https://github.com/user-attachments/assets/6df9118c-6553-4a85-88d8-7e9f3fa3306e" />
+
  
  _g. Report Generated Successfully._
     <img width="1918" height="1017" alt="gui_7" src="https://github.com/user-attachments/assets/5d642372-2ce0-4c38-a5f6-2b5e02aeb7fe" />
 
 **4. Testing**
+
   _a. Graph, TCP, UDP and Total Packets count is seen on dashboard after using packet sender to send TCP, UDP packets._
     <img width="1918" height="1022" alt="test-2" src="https://github.com/user-attachments/assets/052a1a20-fa3e-49c7-a52d-9c585d217536" />
+
+    
  _b. Logs can be seen under Security Logs with complete detais._
     <img width="1918" height="1022" alt="test-1" src="https://github.com/user-attachments/assets/f5932fec-9a3d-4b70-b35a-f392e85676b9" />
 
---
+
 
 ### PDF Report Output
 

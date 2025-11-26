@@ -109,7 +109,7 @@ sudo python3 main_gui.py
 
 ## 📸 Screenshots
 
-### The Dashboard (Live Monitoring)
+### **The Dashboard (Live Monitoring)**
 
 **1. MySQL Database.**
 <img width="1918" height="1020" alt="MySQL" src="https://github.com/user-attachments/assets/3e9a96cf-92a7-4160-9b8f-d468ec48b5e8" />
@@ -158,7 +158,7 @@ sudo python3 main_gui.py
 
 
 
-### PDF Report Output
+### **PDF Report Output**
 
 Example of the auto-generated Executive Security Report.
 <img width="750" height="1067" alt="report_1" src="https://github.com/user-attachments/assets/349df471-ebfa-4094-9bc0-8b23fb58f53b" />
@@ -171,8 +171,8 @@ Example of the auto-generated Executive Security Report.
 
 ## 🤝 Contributing
 Contributions are welcome!
-Bug Reports: Please attach the error log from the console.
-Feature Requests: Open an issue to discuss new metrics or graphs.
+* Bug Reports: Please attach the error log from the console.
+* Feature Requests: Open an issue to discuss new metrics or graphs.
 
 ---
 

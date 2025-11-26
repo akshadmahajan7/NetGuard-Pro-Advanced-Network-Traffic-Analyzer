@@ -111,7 +111,7 @@ sudo python3 main_gui.py
 
 ### The Dashboard (Live Monitoring)
 1. MySQL Database
-(images/MySQL.png)
+https://github.com/akshadmahajan7/NetGuard-Pro-Advanced-Network-Traffic-Analyzer/blob/main/images/MySQL.png
 
 ### PDF Report Output
 Example of the auto-generated Executive Security Report.
